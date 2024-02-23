@@ -1,3 +1,15 @@
+# 1.0.0 (2024-02-23)
+
+
+### Bug Fixes
+
+* workflow ([6279f3b](https://github.com/implicit-invocation/comfy-runpod-docker/commit/6279f3b19188edd4a90b7155614501438998264c))
+
+
+### Features
+
+* build script ([bab426c](https://github.com/implicit-invocation/comfy-runpod-docker/commit/bab426c58d8341614307748e2e33a842ca57e9db))
+
 ## [1.0.3](https://github.com/implicit-invocation/runpod-expression-change/compare/1.0.2...1.0.3) (2024-02-22)
 
 
